@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.vscode
+
+# backend
+OAI_CONFIG_LIST
+.venv
+.cache
