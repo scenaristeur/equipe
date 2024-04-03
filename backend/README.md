@@ -105,6 +105,9 @@ These_positions_are_both_efficient_and_necessary_given_the_task's_requirements.'
 
 #### "llama-pro-8b-instruct.Q2_K.gguf" temp:0.3
 
+
+![alt text](image_fr1.png)
+
 python main_fr.py
 ```
 building_task = "Générer des agents capable de trouver des écoles de surf et des hébergements à proximité en programmant et en analysant les sites internet en relation avec le surf et l'hébergement dans les landes."
