@@ -29,3 +29,4 @@ dist-ssr
 OAI_CONFIG_LIST
 .venv
 .cache
+__pycache__
